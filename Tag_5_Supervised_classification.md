@@ -467,4 +467,5 @@ Anschließend müssen Sie, wie bereits im Kurs gelernt, die Sentinel-2 Daten in 
 
 Da die Hausaufgabe eine etwas größere Aufgabe darstellt und einige Schritte zu Problemen führen könnten (z.B. Anpassung der Koordinatenreferenzsysteme, Auffinden einer geeigneten Satellitenbildszene, etc.), bekommen Sie für diese Aufgabe zwei Wochen Zeit, so dass wir etwaige Probleme nächste Woche in den Übungen diskutieren und lösen können.
 
+Als Nachweis für die Bearbeitung der Hausaufgabe laden Sie bitte einen Screenshot der Konsolenausgabe über die erlangten Klassifikationsgenauigkeiten sowie 2-3 Beispielsausschnitte der finalen thematischen Karte, bei denen Sie so nah an die Karte herangezoomt sind, dass die QUalität der Karte beurteilt werden kann (ähnlich Abbildung 22 oder noch etwas näher herangezoomt). Erstellen Sie jeweils auch immer eine zusätzliche Karte, die die entsprechenden Google Earth Daten zeigt.
 
