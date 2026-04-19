@@ -451,3 +451,20 @@ In Abbildung 22 ist ein Beispiel für eine solche Karte dargestellt. Zum Verglei
 **Abbildung 22: Aufarbeitung der Landbedeckungskarte in QGIS + Google Earth Ansicht zum Vergleich**
 
 ## Hausaufgaben
+
+Die Hausaufgabe für diese Woche besteht darin, eine Landbedeckungskarte, so wie heute gelernt, für **eines** von drei Testgebieten zu erstellen, die im GIS-Projekt ebenfalls untersucht werden. Sie finden Vektordateien für die 3 Untersuchungsgebiete hier:
+
+https://drive.google.com/file/d/1p_Bsx1x2oJrBzyDWNvY4Xu7KnnbZDwM2/view?usp=sharing
+
+Die entsprechenden Sentinel-2 Daten können Sie hier suchen und herunterladen:
+
+https://browser.dataspace.copernicus.eu
+
+Dafür müssen Sie sich erst bei dem Portal registrieren und dann können Sie, wie in diesem Tutorial erläutert Daten für das jeweilige Untersuchungsgebiet herunterladen:
+
+
+Anschließend müssen Sie, wie bereits im Kurs gelernt, die Sentinel-2 Daten in SNAP als Geotiff-Datei abspeichern und dann den Schritten des heutigen Tutorials in QGIS und R folgen. Es kann sinnvoll sein, die Sentinel-2 Daten auf das Untersuchungsgebiet zuzuschneiden, da dies unter Umständen Speicherplatz spart und die Prozessierung beschleunigt. Sollten die Satellitenbilder, die sie finden, nicht das ganze Untersuchungsgebiet abdecken, ist dies erstmal kein großes Problem. Suchen Sie sich einfach eine Satellitenbildszene, die einen möglichst großen Teil des Untersuchungsgebiets abdeckt. Wir werden zu einem späteren Zeitpunkt eine Lösung für dieses Problem im Kurs diskutieren und falls Zeit bleibt auch in den Übungen implementieren. 
+
+Da die Hausaufgabe eine etwas größere Aufgabe darstellt und einige Schritte zu Problemen führen könnten (z.B. Anpassung der Koordinatenreferenzsysteme, Auffinden einer geeigneten Satellitenbildszene, etc.), bekommen Sie für diese Aufgabe zwei Wochen Zeit, so dass wir etwaige Probleme nächste Woche in den Übungen diskutieren und lösen können.
+
+
